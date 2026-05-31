@@ -1,0 +1,9 @@
+flask
+transformers
+torch
+sentencepiece
+duckduckgo-search
+newspaper3k
+beautifulsoup4
+requests
+lxml
